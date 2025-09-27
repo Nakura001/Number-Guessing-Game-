@@ -1,6 +1,7 @@
 #!/bin/bash
 PSQL="psql --username=freecodecamp --dbname=number_guess -t --no-align -c"
 
+
 INPUT_NAME() {
   echo "Enter your username:"
   read NAME
