@@ -39,6 +39,7 @@ INPUT_NAME() {
   fi
 }
 
+
 INPUT_GUESS() {
   USER_NAME=$1
   CORRECT_ANSWER=$2
